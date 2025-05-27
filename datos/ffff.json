@@ -1,0 +1,42 @@
+{
+    "codigo": "ffff",
+    "foto_url": "https:\/\/th.bing.com\/th\/id\/OIP.QneaMZ3CIe0Xic8iGqezEwHaEK?cb=iwc2&rs=1&pid=ImgDetMain",
+    "tipo": "Serie",
+    "nombre": "HunterxHunter",
+    "descripcion": "Gon buscando a su papa, killua siguiendo a gon y kurapika matando hormigas",
+    "pais": "japon",
+    "autor": "japones",
+    "personajes": [
+        {
+            "cedula": "00892",
+            "foto_url": "https:\/\/th.bing.com\/th\/id\/R.0fef7fff23bea0876b841f344a4d5c5f?rik=JdMZrV%2byyxyEyg&riu=http%3a%2f%2fvignette4.wikia.nocookie.net%2fhunterxhunter%2fimages%2f9%2f99%2fKillua_-_136.png%2frevision%2flatest%3fcb%3d20140702170328&ehk=kVa5rZZA29f2ikXwcf0VUm63%2fWOQN7chTlwi%2bDqM254%3d&risl=&pid=ImgRaw&r=0",
+            "nombre": "Killua",
+            "apellido": "Zoldick",
+            "fecha_nacimiento": "2009-08-09",
+            "sexo": "Masculino",
+            "habilidades": "serial killer skills ",
+            "comida_favorita": "pasta"
+        },
+        {
+            "cedula": "12345",
+            "foto_url": "https:\/\/vignette.wikia.nocookie.net\/toonami\/images\/a\/ab\/Gon_Freecss.jpg\/revision\/latest?cb=20160402095532",
+            "nombre": "Gon",
+            "apellido": "Freecs",
+            "fecha_nacimiento": "2009-05-24",
+            "sexo": "Masculino",
+            "habilidades": "strengh",
+            "comida_favorita": "pasta"
+        },
+    
+        {
+            "cedula": "00892",
+            "foto_url": "https:\/\/i.ytimg.com\/vi\/KAcN3nu9z_Y\/maxresdefault.jpg",
+            "nombre": "leorio",
+            "apellido": "san",
+            "fecha_nacimiento": "2005-10-21",
+            "sexo": "Masculino",
+            "habilidades": "sanador",
+            "comida_favorita": "chuletas"
+        }
+    ]
+}
